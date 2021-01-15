@@ -1,2 +1,2 @@
 # Optimisation.LinearProgramming
-This repository regards the third assignment, namely Linear Programming in Staff Planning, of the Optimisation course at the Uppsala University.
+This repository regards the third assignment, namely Linear Programming in Staff Planning, of the Optimisation course at the Uppsala University. This assignment requires a Linear Problem (i.e., linear objective function and linear constraints) to be solved. The assignment goal is to find the minimum salary necessary for a company to hire the number of staff required for each shift in a railway construction project. Different algorithms are used, namely dual-simplex and interior-point, and the results are analysed using values of the Lagrangian Multipliers.
